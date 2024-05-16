@@ -1,0 +1,351 @@
+survey_id,gender,study_domain,study_year,avg_grade,housing,budget,relationship,social_events,drinks
+25c9591e-517b-4d38-a4b8-4e0d9f4bad51,male,natural sciences,third,7.54,parents,high,yes,average,2
+4a65291c-3bfc-4615-9194-af50f1c0662d,female,natural sciences,fourth,7.25,student housing,low,no,low,4
+27115969-d3c3-4c48-80ff-40912fb9d4a4,male,computer sciences,second,7.55,student housing,low,no,average,9
+23d569d4-8327-4cd4-8ff6-98750d9bc761,female,business,fourth,7.0,parents,average,yes,average,8
+800c4ee2-c3a7-42cc-9a47-902b32d4038d,female,computer sciences,third,8.21,parents,high,yes,low,1
+6eaeac02-e262-4ebc-bd19-518ac8464153,female,natural sciences,fourth,7.07,student housing,high,yes,low,11
+bbbe1bf9-6566-4605-b988-89cf64284836,male,social sciences,fourth,7.57,parents,low,no,average,4
+6e38c82d-172d-49bb-a129-6e91baead5cd,female,computer sciences,second,8.63,parents,average,yes,low,1
+e67a0cb1-deea-48e0-a5dd-891b346df55b,male,law,first,4.66,student housing,high,no,high,16
+a37c82f1-b3d9-4251-b6db-c8b741cad3dd,female,natural sciences,fourth,6.02,parents,average,yes,high,12
+506cf942-b2d9-4185-9608-67e8e0ea3468,female,natural sciences,third,8.46,other,low,yes,low,2
+a4dd5a4d-341f-4b95-816f-99b6096a6c5a,male,natural sciences,fourth,7.06,parents,high,yes,high,2
+5da73115-0b57-4149-8dc3-ed2e051b4f6a,female,health,first,7.12,parents,high,no,low,1
+35f26510-bb0e-496d-9833-8db75e5b5a53,female,law,fourth,6.99,student housing,high,yes,average,8
+5d90a50a-6002-44dd-abe7-8d92a1cb4708,male,business,fourth,7.7,student housing,low,no,average,4
+db6f7286-7b9c-4a73-a97a-81953d052b0d,female,social sciences,first,7.35,other,low,no,average,9
+17561946-824d-440d-9086-31e6909fc869,male,social sciences,fourth,6.46,parents,low,yes,high,5
+a5b487e7-cbcb-4130-91b4-fb8424fc242e,female,business,second,8.15,student housing,low,yes,low,4
+a1fb16f4-5ce7-4a7f-9745-eed7834e35ea,female,business,second,7.13,parents,high,no,high,10
+d98d5f8e-da02-44b1-a24c-5fde55803645,female,health,fourth,6.51,other,high,yes,high,14
+82ae828c-c526-447f-bdb5-bd326c367717,female,social sciences,fourth,7.01,parents,low,no,low,8
+8bfa3f68-0602-4029-95a8-f2e9114377ae,female,law,third,6.62,student housing,low,no,high,8
+b40c1161-1a4d-4860-8ac1-96fbbe71a01e,male,social sciences,first,8.28,parents,high,yes,low,1
+aefca92a-d2f8-4ad2-865f-4aa9808baed6,male,law,third,5.51,parents,high,yes,average,12
+3f213dbc-afd8-4b71-be16-6c563d1ef27a,male,social sciences,fourth,6.94,parents,average,no,average,6
+d97d6ba8-d249-4412-a694-daad92805aad,male,business,second,8.14,parents,high,no,average,4
+3b30e3f4-32f4-45d8-ba37-50a448fe8931,female,computer sciences,fourth,6.79,parents,high,yes,low,8
+29c3cffd-f6e2-45eb-8ca0-db1de18d6d59,male,business,second,6.77,student housing,average,yes,low,8
+472b1067-b04d-4bb8-ae90-8c2e22029ac7,female,social sciences,fourth,6.85,parents,high,yes,low,6
+e46332b9-4a96-4d08-bf3a-123174d3413d,male,law,first,7.1,other,average,no,average,9
+a1f3b331-f192-45df-912d-0213b9d24fa4,male,business,first,7.16,student housing,low,yes,high,4
+4cecc1b6-619d-4b97-87e5-af756980363e,male,social sciences,second,7.26,parents,average,no,low,4
+07771bdb-22bc-45b8-beb8-3079cf2f901f,female,law,second,7.1,parents,average,yes,average,6
+2334f1c9-970a-4231-a057-7f275943853b,male,law,second,6.33,student housing,average,yes,average,15
+c81c6909-11c9-4bbd-9131-5a9c3d300c94,male,health,second,6.19,other,high,no,average,7
+6500e8a6-a9a7-478b-a90b-caad3912f62a,female,natural sciences,first,8.58,parents,low,yes,average,0
+,female,social sciences,second,7.02,parents,high,no,average,9
+fe60829a-ab22-4d90-b8ff-7847cb67b0cd,male,health,second,7.13,parents,high,no,average,6
+484aa894-471f-4b42-926c-6cacbdc1bc6e,male,computer sciences,third,7.92,student housing,average,yes,high,7
+26dfae30-2264-4397-9d19-a1a8dcbf1932,male,social sciences,first,7.33,student housing,low,no,average,8
+c7aaca65-92ce-4613-bb7c-024a8303d735,female,law,fourth,7.19,student housing,average,yes,average,7
+2a008466-b28e-4285-953f-135e83722f63,male,health,second,8.35,student housing,low,no,low,2
+fb5540bd-93a0-4dbd-bab7-56c1efc05cd5,male,business,second,6.06,parents,average,no,average,7
+e697e6d6-1a82-4329-a031-6ebb05047bb9,male,social sciences,first,8.33,parents,low,yes,low,2
+a2d8e169-700b-4af6-979a-1acdf0c5ddea,male,computer sciences,second,6.99,parents,average,no,low,2
+3f0ab700-3258-4713-b086-8eca39d65620,female,computer sciences,fourth,6.79,parents,high,no,low,2
+99792d7f-4a04-42f7-ab13-b2ff130db8ec,male,natural sciences,second,6.55,student housing,low,no,average,5
+59bee11c-37be-4c25-a631-24512399d50f,male,computer sciences,third,5.46,student housing,average,no,average,13
+,female,health,third,7.18,parents,low,no,low,1
+0e720b78-4879-4b2a-9217-4fe3695dd82c,female,health,third,8.07,parents,high,yes,low,1
+0eb67c12-69fe-4465-ba8a-b605800a5d61,female,law,second,6.29,other,low,no,average,8
+dc9207ce-3c5a-437b-9e5a-870564ef85ef,male,social sciences,third,7.2,parents,high,yes,average,3
+1e431f98-4fb9-484e-a761-744d6dd86060,male,health,second,7.88,student housing,average,yes,high,4
+f2765532-7477-4fe8-9aa5-54de9ee58c12,male,health,second,7.69,parents,low,yes,low,8
+88e64fb4-8924-4f21-85ec-c3bc355fcea2,male,law,first,8.35,other,average,no,high,4
+14562153-c737-4cd3-aee4-3eb7d190fd3f,male,health,second,7.78,parents,high,no,low,2
+c030904e-a1fc-40e1-8220-f7545fd2a413,male,business,third,7.19,parents,average,yes,low,8
+6a84dd76-3b1a-41e5-820d-87f24537b2b3,female,business,fourth,7.12,parents,average,no,average,7
+225b4ecc-6325-4dfe-80d4-11a0e83e8500,male,law,second,6.95,parents,average,yes,average,7
+febb3afd-937c-4a6a-96f3-e921fd18ebf6,female,social sciences,fourth,5.43,student housing,high,no,average,13
+d6cb2365-2125-459c-90f3-46f7d8f63076,male,business,third,5.87,parents,high,no,average,19
+2b34c25f-47fa-46d8-9035-e2c90bbcb3e3,male,business,fourth,5.98,parents,average,yes,average,8
+2720ee6b-9f28-4f2e-826d-5b29a9f3bb23,male,social sciences,first,6.98,parents,low,yes,low,2
+6199a408-c5ff-4f00-944f-37ae5578b011,female,law,fourth,5.18,other,high,no,high,15
+f8758dc4-84a4-4b64-ad4f-b1686a5cc09f,female,health,fourth,8.27,parents,low,no,low,1
+5f820b3f-72f4-40d3-83d6-817cd187846a,male,business,second,5.65,student housing,high,yes,high,20
+f4df5850-0f26-4df7-ae37-33828ef6b354,male,business,first,6.29,other,high,no,high,18
+ced80b4d-1145-4326-bf69-6af23c74a87b,male,business,second,6.55,parents,average,yes,average,5
+a17504f8-2b7f-47eb-862c-1d5fea7801dd,female,law,third,8.25,other,low,yes,low,1
+4a8df0fe-aa37-4de2-b707-3b8f43658934,female,health,fourth,5.4,student housing,high,yes,high,18
+,female,law,first,5.88,parents,high,no,high,14
+1c812e33-fb64-4c25-ba63-78c326811b8c,female,natural sciences,first,5.93,student housing,average,yes,average,9
+78a109ee-4e5d-4dcd-ba02-4e3ebed6432e,male,natural sciences,second,6.79,parents,average,no,high,8
+9dc29211-f0a7-4779-aa5b-e01879662246,female,law,first,6.89,student housing,low,no,average,5
+7d8edbb3-4a5e-49db-9199-6348c3da8c83,female,law,fourth,6.98,other,high,no,average,3
+9b5e86cd-b3fe-405f-98f8-fd2a0ed92752,male,law,third,7.26,student housing,average,no,high,9
+d475bdc1-2dd8-4a34-a9db-d7fb05e95faf,male,health,third,6.89,parents,high,no,average,7
+21970c65-37a1-4703-9c4f-c74409ffe9af,female,law,third,7.0,parents,high,no,high,5
+01cfcd6c-d340-4878-a6a1-024281ebcf87,male,health,fourth,7.0,parents,high,no,average,8
+f62aeaac-1093-4cb2-94d9-d3b75ce08b97,male,law,second,6.17,parents,low,no,average,6
+e093997e-e546-48a4-a8b3-beec5c05103d,male,law,fourth,7.64,student housing,low,no,average,7
+fe15b5b0-f1fb-4059-904f-659776999054,female,natural sciences,fourth,8.22,parents,low,no,low,1
+94be97bc-2558-4c37-bc18-d5f01d8eabc1,female,health,fourth,7.72,parents,low,no,low,2
+f486ea4c-5957-4474-b512-a56de99d447f,male,natural sciences,fourth,6.94,student housing,high,no,average,7
+9c59ef56-8a35-4cbc-9061-9f971cef2c6b,male,social sciences,first,6.99,parents,low,yes,average,4
+47e00253-f8b2-4973-9382-ea132d6ed0f4,female,social sciences,first,8.49,parents,high,no,low,1
+244e7710-fde1-4639-9fef-8552a54affa4,female,law,first,6.97,student housing,average,no,average,6
+a40a9890-1839-4127-9d03-4d938bc8ccb4,female,business,first,7.02,parents,average,yes,average,8
+0770d87a-0f93-4a9f-8d12-efb7e977ef91,female,law,fourth,7.77,parents,low,no,low,4
+76a52c45-8fa8-4485-8e26-6038f37a967f,female,natural sciences,first,7.43,parents,average,no,average,5
+6f95fdc9-1f7a-45a8-9fec-96eb09162890,male,law,third,6.05,student housing,average,yes,average,13
+3b049034-65b6-4691-bdb9-b39c91db52f6,male,business,third,8.13,other,high,yes,high,4
+a97c7b18-a883-45f7-a796-6b6f90979d5d,female,business,third,6.5,other,low,yes,high,8
+eaa54a3b-2bb0-481c-b146-c948784b7eda,male,social sciences,fourth,6.2,student housing,high,no,high,18
+aaa085b8-3643-4849-84bf-32cb70046ce1,male,business,fourth,5.06,student housing,high,no,high,19
+037b0840-e7e3-437d-af3f-1aaf43bbab8e,female,social sciences,third,7.72,student housing,low,no,low,5
+,female,health,second,6.26,parents,average,no,low,7
+14e97586-7df8-4a42-8575-06a9ea938195,male,computer sciences,fourth,7.77,parents,average,no,low,2
+7e3ba79e-b466-4013-b72e-83567661a4b9,female,health,fourth,6.6,student housing,high,yes,high,10
+3a7c4c6b-287f-44bd-8e08-f6652af1eca0,male,natural sciences,second,6.48,parents,average,no,average,8
+ecb7631d-b153-4d3a-9f95-bad0c07c95e9,male,computer sciences,fourth,7.4,student housing,high,yes,average,0
+9f21e0fe-c701-40b1-b6b0-d1f6451b5dc0,male,natural sciences,third,7.07,student housing,high,yes,average,9
+7dab53c8-6549-4b6d-a260-a51bbc25b947,female,law,second,6.21,student housing,high,yes,average,14
+78eb1e6f-045a-4a8e-ac7f-94b36ee7f0b9,female,natural sciences,first,7.9,student housing,average,yes,high,3
+5d24291e-11a6-4f41-8a97-edbe7834e28e,male,social sciences,second,6.81,student housing,high,yes,average,5
+6c0873f4-d272-4e00-822d-b3262aaba115,female,computer sciences,second,7.42,parents,low,no,low,0
+64685e69-da7d-4403-9e21-856cec91ce8b,male,natural sciences,first,7.57,student housing,low,yes,high,0
+3fce467e-f801-48dd-8ea7-821428948bf9,female,business,second,5.71,student housing,high,no,high,11
+19663a5b-9f54-47c3-b81b-a87abf5ad680,male,business,fourth,5.03,student housing,average,no,high,16
+cee0fec3-06fc-4ce0-bcdc-884025b35fef,male,business,first,7.45,student housing,high,yes,average,6
+ab8e3d0b-9073-4083-a48b-05a02c6a5cf1,female,business,third,4.85,student housing,low,no,high,18
+2ccbc62a-dbf1-4eb5-bb15-f964caee4c90,female,law,first,7.26,parents,low,no,average,5
+7bedfb1a-35cd-4f75-817a-5f03042ce88f,male,business,fourth,8.17,parents,average,no,average,4
+a7839455-4b51-4396-8d84-1370ff203a36,female,social sciences,first,7.03,other,low,yes,low,3
+156c8afa-891e-48fa-aea3-dbaaca1fc1df,male,law,first,7.29,student housing,low,yes,high,5
+65a111e8-733d-49d2-9114-245f4c31a009,female,social sciences,second,7.91,parents,low,yes,average,0
+38a7fd28-1e51-4842-b5e2-b2e687ecade3,female,law,fourth,7.02,student housing,low,no,low,8
+3df77b50-3093-44cc-9310-3946f86bc361,female,law,third,6.46,student housing,high,yes,high,4
+a41eb45b-21aa-4bd1-8f97-6164282a5347,male,health,first,8.49,student housing,high,yes,average,3
+e5f01001-2885-44e5-9462-ad4a8e75d81d,female,computer sciences,second,6.65,student housing,high,no,low,8
+,male,business,fourth,6.81,parents,high,yes,average,2
+5dfe2f9f-99d7-4da2-8405-da8e3fff86ac,male,law,fourth,7.74,parents,low,no,low,0
+331b8691-3b53-4a72-bcdf-e81f3edc6796,male,social sciences,second,7.11,parents,low,yes,low,0
+31bab8e9-d52f-4f3c-b9d2-d22a0247b8b1,female,social sciences,third,6.66,student housing,high,no,high,12
+70319871-ddbc-458e-8ed3-9c4305cb39ed,male,business,first,6.93,student housing,low,no,high,5
+37ba24d6-cf4f-4e24-8900-abdb682115bc,male,computer sciences,fourth,7.85,parents,low,no,high,1
+b23f4aa7-c3b9-40e5-8f67-632e3ef090da,male,natural sciences,third,6.54,student housing,high,yes,low,5
+3388d386-0383-4a0d-8a58-39d771c1b0a3,female,social sciences,first,8.62,student housing,high,no,low,1
+13266667-e637-4f7d-b6c7-bff850214e40,female,business,fourth,6.91,student housing,high,no,low,1
+ca3bf6ba-ce47-48b7-9b02-ba919aba2981,female,business,first,6.23,other,high,no,high,12
+dabce0d6-96de-465d-9b40-20c6b8a174dc,male,law,fourth,7.3,student housing,high,no,high,5
+de1cd34c-4536-41fe-8e36-ed8449ccaf24,male,law,fourth,6.65,parents,low,yes,low,6
+6ff784f9-3776-40d6-a5ac-d3734d46b7b6,male,health,fourth,7.04,student housing,average,no,average,6
+62bac487-f2c2-4476-8123-21c1ba014cbc,male,business,third,7.23,parents,average,no,average,4
+f18c1dcb-b1d2-45de-bff2-5b827345d190,male,health,first,7.87,parents,high,yes,low,1
+1a511d3a-89a8-4309-8487-420ea9f80c56,female,natural sciences,fourth,5.05,other,high,no,high,16
+91f193eb-a1da-4ddc-9aaa-18f0d825733e,female,law,first,5.57,student housing,high,yes,average,17
+91cbb98d-b5ee-4520-a688-a6cb79f46986,male,health,second,6.93,student housing,low,yes,low,2
+d8146aee-8ed0-44a7-bbad-9ae0c4b54299,female,law,first,5.54,parents,high,no,high,17
+3176286c-e5b2-44b2-aede-16ec2a8b64ca,male,social sciences,first,7.22,student housing,high,no,low,1
+bec923c0-073a-466d-9e85-97f974c9edf1,female,health,second,7.37,parents,high,yes,average,0
+fb6becb2-9b50-4c8a-b126-fdf3628972c2,male,law,fourth,7.3,other,high,yes,high,11
+092bd660-084b-41a6-9f5d-13f68f4db73a,female,health,third,7.32,parents,low,no,average,8
+0e2c9a4a-5357-49f8-98e8-a60d86e9d60b,female,natural sciences,second,7.77,parents,high,no,low,7
+398760e3-cd60-41ef-9aa6-370f74239de7,female,law,first,7.34,parents,low,yes,average,5
+c67aa157-1b54-4f19-9272-3a7759c56838,female,natural sciences,fourth,6.52,student housing,low,no,high,11
+1f466e39-1153-4998-b140-e52d842b2f2e,male,business,third,6.68,student housing,low,no,average,7
+d4862cfa-b5fe-4fea-a9c4-7d319f3c45b5,,social sciences,third,8.65,student housing,low,no,low,1
+deecaddc-0bd9-45cf-bcdc-425ad49c552d,female,law,fourth,6.69,parents,average,no,high,4
+ac39270e-6cf5-440e-b155-eda43dcee75e,female,natural sciences,first,6.07,student housing,high,yes,average,10
+330d2ef9-23f5-4d88-86db-89ffc1c8d9d9,male,law,second,6.99,parents,low,yes,average,9
+0e06bf6f-3df2-470b-863f-b42c1bc5dc24,female,law,fourth,7.45,parents,low,no,average,8
+162d7daa-91f4-4747-a920-07bf5a02d9fe,female,health,second,7.04,parents,high,no,high,5
+78bd49c8-fdea-4c9f-a9d2-72117d57a29b,female,business,second,7.12,parents,high,yes,low,6
+abb28ddf-51fd-48e5-b028-617af84afca3,male,law,first,6.19,student housing,average,yes,high,9
+e0ea94d7-3e2c-4044-9bf5-93175c7f0077,female,business,third,7.47,student housing,high,no,average,9
+afa8e968-ce5f-4d43-bf5e-1dcf0cdfcdb3,female,natural sciences,first,7.94,parents,average,no,average,5
+98c1fe73-172f-4591-bbc3-cf8fcc040cd9,female,natural sciences,first,7.2,student housing,low,no,average,1
+d7452074-3699-46a7-bad1-b8f34e49e998,male,business,third,6.96,student housing,low,no,high,10
+af743774-8d36-4998-a827-2b6db8e08c2f,female,business,first,7.89,other,high,yes,low,5
+712b8b32-1b8b-404a-b466-c824d480cc3c,male,computer sciences,first,6.62,other,high,no,average,6
+04960bcd-921b-438d-9a20-9f599858dfc8,female,business,second,7.02,student housing,high,no,high,11
+06cc94fb-75e3-43ca-9a43-4832d85db86e,female,business,fourth,6.69,parents,average,no,average,6
+9f75d5e2-f1ff-4e94-a8e8-0034ba2436f3,female,law,second,5.86,parents,low,no,high,11
+60583195-eead-40bc-9e49-7d20424fad44,female,law,fourth,8.14,parents,high,no,average,4
+24218341-a1ac-4f78-a2c8-69fdc048fd80,female,social sciences,second,8.38,other,high,yes,low,4
+f162abc8-bb78-4f15-9d82-77ee5efc7d9b,male,computer sciences,third,8.91,parents,average,yes,average,0
+93d120b3-e5d2-4ab8-9ede-cdd69eb01f5a,female,law,first,7.75,parents,high,no,high,6
+b7d3cc44-1b43-4bfc-a3fd-8a876c0995d3,female,social sciences,first,7.01,student housing,high,no,average,3
+1218be73-c4d4-46a2-bd78-1a10df08fbd5,male,business,second,4.4,student housing,high,no,high,19
+a88184dc-579c-40cf-86d4-0bd4c3fcc3a3,female,health,fourth,6.68,parents,high,yes,average,5
+9ffe1669-9a8f-4627-a33a-1e08b9eeda6d,female,health,fourth,6.44,student housing,average,no,high,8
+e493266d-b7d6-4602-bca4-c882cf324c84,male,social sciences,first,7.44,parents,high,yes,average,2
+fad709ab-fdcb-4ab5-b291-7673bbadd29e,male,business,second,6.3,student housing,high,no,average,8
+f2ee37ad-a03d-4b16-bc4a-1efb9bfd30ed,female,business,fourth,4.78,other,high,yes,high,16
+5ffb7b37-5a8e-4bf9-b570-c9a18ae6a31c,male,social sciences,first,7.51,parents,high,yes,low,1
+438119b5-4739-4520-80bf-f25c2839d80c,female,business,third,6.36,student housing,average,no,average,6
+0ef92975-e756-4fb8-a3a7-e1464c556203,female,business,first,5.56,parents,high,yes,low,12
+24a408c3-f7b4-4e4e-a651-1615bfcdab78,female,law,third,7.12,parents,high,no,low,0
+aa2c36e9-eb44-4304-8953-74be3401af76,male,natural sciences,second,7.95,student housing,high,yes,average,3
+5a70c8a8-d64c-478d-ad75-297d9a7f575a,female,health,second,7.6,student housing,low,yes,average,5
+129c5214-6465-4b08-a065-e837059cda74,female,social sciences,third,6.81,parents,average,yes,low,4
+3ef8e199-6ddb-4e32-8aca-3aba6b99388f,female,law,third,6.23,parents,high,no,average,9
+464e9e42-80e2-4d92-9b74-31a8bc3c500f,female,social sciences,second,7.16,other,low,yes,low,0
+73bc8f1d-b761-4abc-a8a3-4f51a73c30d7,male,law,fourth,6.1,student housing,high,yes,high,13
+,female,business,first,7.87,student housing,high,yes,low,7
+d5e59a5f-aa30-4386-b2d4-ac040a981f8a,female,social sciences,fourth,7.3,other,average,yes,average,9
+a0ed200f-9720-4516-afcb-33c37e164e50,male,natural sciences,fourth,8.52,student housing,high,no,low,1
+6e9bca17-ef30-4253-be09-77b52ea7d657,female,business,third,5.3,student housing,average,no,high,18
+be44b134-022d-4875-ba10-224ddff5235f,female,social sciences,second,7.76,student housing,low,yes,low,7
+343777a1-922a-4e2b-9c49-9460b191a3a1,female,law,third,6.64,parents,average,yes,average,11
+ce89f152-09a0-47b8-bfef-a70b9bc6dae8,female,law,third,7.12,parents,low,yes,high,7
+a8d05e3f-f671-46b5-8026-0fb0e18e1887,female,law,third,4.38,other,high,yes,average,18
+bc741fe8-827f-4e34-856c-16d7970ac7d5,female,business,second,7.06,student housing,average,no,low,6
+e6ba36e5-679e-4097-99d4-7d9d2d17792c,male,law,first,5.94,parents,high,yes,high,9
+09534068-7c11-4caa-b8f6-64df741d0973,male,business,first,6.6,parents,high,no,average,3
+9eb0e995-2cc8-4ea3-8b3f-40d0431114bc,female,business,second,6.66,student housing,average,no,low,5
+c487a6e8-a44e-48a5-a042-60b75304943a,male,law,third,5.92,student housing,high,yes,average,13
+182df8c1-166b-4bee-ad5b-6854418bc539,female,business,second,6.06,student housing,low,no,low,7
+b6f40401-f50d-4d31-93d0-2ac356060b28,female,social sciences,third,7.15,student housing,high,yes,low,8
+6e69fca3-36be-45e8-a2eb-17710c975386,male,computer sciences,third,6.21,other,high,no,average,8
+472382b1-2ece-4fc0-b8e9-98738a2255ec,female,natural sciences,fourth,7.42,other,high,yes,low,9
+91ffad2e-1144-447d-a934-f4adbc630129,male,business,fourth,6.31,other,high,yes,high,14
+b45ed80e-79e6-42d7-b99c-33f0b42e79b5,female,social sciences,fourth,7.36,student housing,average,yes,average,1
+65898956-f79e-4db3-8b85-e355a9d47762,male,computer sciences,fourth,7.47,student housing,high,no,average,5
+d2feb0bd-f139-4911-9458-8a94bca37273,male,social sciences,third,7.27,other,average,no,average,9
+c3a9210c-b760-4bd3-8c90-47c773de9a06,female,law,second,6.59,parents,low,yes,average,5
+74a5f54b-8159-40d6-b37f-559508c66da9,male,computer sciences,first,6.82,parents,average,yes,high,4
+71e50118-0499-4489-aaf1-6e0768420d72,female,law,second,7.88,parents,average,yes,high,6
+d0832d39-7fd7-405c-baad-297fa80c0f6c,male,natural sciences,third,6.36,student housing,high,no,average,14
+4ea7c79e-ef0f-4e9a-984b-985bd318f0d0,female,natural sciences,fourth,6.69,parents,high,yes,low,7
+2d14a317-c371-408f-8e30-b97f12d61ac9,female,health,fourth,6.74,parents,low,no,low,2
+7c8400ce-5637-46f7-92d3-cb7e9d5d57bc,male,business,fourth,7.03,student housing,average,yes,high,13
+f6a74800-e2ed-4d3c-b630-498fcbde116e,male,social sciences,third,4.51,parents,high,no,high,18
+,male,law,second,4.64,other,high,no,high,16
+c252b05a-b7a3-45ed-ab74-31bedd321302,female,business,third,7.99,student housing,high,no,low,5
+ad6e7e64-266d-45a6-ad09-7bbd47400bc3,female,law,fourth,6.18,student housing,low,no,average,7
+5f352b98-2493-431d-8f16-8ad0839af6a9,male,computer sciences,fourth,7.36,student housing,high,yes,average,7
+ac412e2d-1432-4a39-a609-b792a26ca0e3,female,natural sciences,first,8.31,parents,average,no,low,1
+16494016-cfe2-4bd4-9d36-c2949af7c04b,male,social sciences,first,6.58,student housing,average,no,low,3
+311f7192-131d-4169-bb5e-b8ca9fdf1373,male,natural sciences,third,8.56,parents,high,no,low,2
+4d1754a0-56c8-44ce-9e09-04cce2e97acf,female,business,second,7.15,parents,average,no,high,8
+577f6b33-797f-4126-ac70-7c2219526c79,female,business,first,8.09,parents,average,yes,average,6
+2d26fe03-42fe-482e-93cc-c5963ed4ea68,female,business,first,6.71,student housing,low,no,high,3
+232a9390-aae8-4331-8c47-8985f04d3fa7,female,business,fourth,6.46,student housing,low,yes,average,7
+e137679b-cf43-4dc9-bbb3-d16af260da2c,female,social sciences,third,7.76,parents,high,no,average,7
+fd898329-0afc-4f1b-99c6-d84c804372bf,male,business,first,7.39,parents,high,yes,average,8
+e1424e5f-3efe-4902-8283-52da9112d9a8,female,natural sciences,third,7.65,parents,high,no,low,1
+00f0d4ef-ef13-445a-a936-99ae1fcda473,female,business,fourth,8.22,student housing,average,no,average,4
+1d7f6962-922e-4946-9ea8-154add0c2d1e,male,business,second,7.14,student housing,average,yes,average,9
+71c74876-95b7-486e-97fb-316a9f2a4834,,law,third,6.1,parents,high,no,high,7
+d73d95aa-5c61-4e0f-8401-c3feb19c676b,female,business,first,7.24,student housing,high,yes,high,6
+f1355942-35a4-4156-a229-4fbeb3dc131b,male,business,second,7.2,other,average,yes,high,10
+f294d2d1-2003-4e7b-819f-8391667758ef,female,computer sciences,third,6.14,parents,high,yes,average,6
+de3120c4-9359-4761-8652-a92c6461dda3,female,business,first,6.89,student housing,high,yes,low,8
+cd284a9c-9c2f-4afc-8414-ce15b4220e63,male,social sciences,fourth,6.36,student housing,low,yes,average,6
+bd9bd81b-b222-42a3-bb50-6b1f598c7690,male,health,first,6.04,parents,high,no,high,13
+2ff4dc39-4062-40f9-aefe-97bad86ba075,female,business,first,6.46,student housing,high,no,high,16
+19979a42-5fb5-4530-8cbf-6bc679028a92,female,law,second,7.62,other,low,yes,average,3
+fde0af76-41cb-4588-b182-3a2b9b77d3dd,female,social sciences,fourth,6.66,parents,average,yes,average,7
+9dd37bf6-5d81-4c17-92bc-739a5215bcce,male,law,second,6.02,student housing,low,yes,high,10
+4816a8bf-0d8b-4411-85b6-445ba6ca8721,female,business,first,6.13,student housing,high,yes,high,13
+ccb1de0f-9cdc-4488-8ed1-b0455e645a9e,male,law,third,8.37,other,low,yes,average,3
+269d3d8d-1d18-47ee-958a-69ff01c46c05,female,health,fourth,7.57,student housing,high,yes,low,1
+785eb3d5-6596-4380-a325-8d3c60519437,male,law,second,6.12,student housing,low,no,high,12
+ea41bd88-6186-41b9-894d-89745cd32688,male,computer sciences,first,5.91,student housing,average,yes,high,14
+290a091d-dfba-46c6-b3d4-10e50790337c,female,business,third,7.82,parents,high,no,average,0
+c7c9c15a-e090-4ab3-a8f4-80be292c0f9f,male,social sciences,fourth,7.11,parents,high,yes,low,2
+a9c0d043-b5da-40b0-95db-ca04e28065ea,female,business,second,7.43,student housing,average,yes,average,5
+4dab0858-cda7-4cff-a8cc-eaf214319584,female,social sciences,fourth,7.53,other,low,no,low,0
+9cfdc25d-64b8-4474-b450-f88f8aa4d99f,male,law,fourth,6.85,parents,high,yes,average,8
+0dd9dc27-dcd6-42a3-9d6b-5bdbe2bd7bc7,male,law,fourth,7.98,student housing,average,no,low,3
+911a61c0-62a8-4c98-87ea-450247d56a58,male,business,third,5.94,student housing,high,no,high,10
+486f62fa-f666-4caf-971a-04774adf4c58,female,social sciences,first,5.72,student housing,high,yes,high,14
+3c6171d7-a2a2-499a-b8c6-112c8246157c,male,social sciences,third,6.81,student housing,low,no,average,4
+f49f256d-eef6-4e8b-9120-25a65d6abf24,female,law,second,6.68,parents,high,no,high,12
+dc99d851-9717-4d3b-9b77-33867a04368b,female,computer sciences,fourth,8.52,parents,low,yes,high,1
+526a2cdd-d3aa-499b-9c34-b636d149cb96,male,law,second,7.73,parents,average,yes,average,0
+6cafa4ce-a2b4-4d51-b8a0-ec5ff5b3f311,female,social sciences,fourth,7.08,student housing,high,no,average,4
+,female,law,first,6.86,student housing,high,no,high,8
+aa74b26f-36a5-40e2-9b3c-742f77b160e8,male,law,second,5.0,student housing,high,no,average,14
+49d143c8-720e-4054-b9e8-ffdfa074f096,female,social sciences,third,8.64,student housing,average,yes,low,1
+47cd0c8b-c2eb-46d1-9c38-d1eeee94ae72,male,business,third,7.63,parents,high,yes,average,4
+254d685e-1e6c-44da-a21f-d573e559f7dd,male,computer sciences,second,7.56,other,high,no,average,4
+6ae0f6ea-8c1c-462f-99d3-cf2591f3faf0,female,social sciences,second,7.32,parents,average,no,average,2
+ae81f5f2-00fb-4e66-9d53-ed80ecdeab01,male,social sciences,third,6.42,student housing,average,yes,average,7
+9975761b-b144-4fbf-b967-e71581149858,male,business,fourth,7.08,student housing,average,no,average,7
+11cb3c85-fda6-452e-aea6-f4f7597eabdf,male,business,first,6.37,parents,high,yes,average,8
+017b8941-fc53-4a28-8a82-da9faf2e339c,male,business,fourth,6.83,student housing,high,yes,high,13
+303c65af-9c62-49c0-93c4-e60f9a1d4152,male,health,second,8.15,parents,high,no,average,1
+d0699b21-2591-4689-9c17-388aa2abadd4,male,business,second,6.26,other,high,no,high,18
+9f98c4cf-a922-4d4d-b695-e8a2c890fc3a,,business,second,7.65,parents,average,no,average,8
+7fb0976f-7636-4353-8a82-0e0a7fc010ed,male,business,third,4.6,student housing,average,yes,average,18
+89c58c57-e5d8-4fe2-9015-29188e081f87,female,law,second,7.4,student housing,average,yes,average,8
+ac858573-d059-4739-afbb-a55231f7538e,male,business,third,6.2,parents,high,no,high,8
+bf35ab1d-42f2-4df0-8989-ce0692d184bc,female,social sciences,first,7.43,parents,low,no,low,5
+d937b9f9-e291-4a52-939f-b4acb2270db6,male,law,first,5.23,student housing,average,yes,high,13
+a667bd52-b45b-467c-ad55-9f2e5bfacca3,female,social sciences,fourth,7.28,parents,average,yes,average,6
+0c3d8098-1046-4742-bcd5-2f550ecf48e3,male,business,fourth,8.17,parents,low,yes,high,2
+403e1f1f-0d3e-4d5e-bd9b-0eff1e5e2b6a,female,law,fourth,7.07,student housing,average,no,average,11
+,female,law,fourth,5.13,student housing,high,yes,high,14
+8c113055-4f9e-469d-8705-caf930e8fab4,female,law,third,7.39,student housing,high,no,low,3
+8c1ed563-51d6-4170-81bb-0afc33d5eede,female,computer sciences,fourth,6.81,other,high,no,high,12
+4b141386-4070-4c2a-aa37-a1a317935444,female,business,third,7.42,parents,high,no,average,8
+92af992d-ae33-4bd2-8d48-cc872b2faeb9,female,law,fourth,7.69,parents,average,yes,average,5
+,female,computer sciences,second,7.46,parents,high,yes,low,1
+9efcbc2a-4677-4ef1-b4f8-db3df548fb78,male,business,second,8.49,student housing,average,no,average,3
+0d9c79d8-cd8e-44d8-a2f7-a5ebfa14306a,male,social sciences,fourth,6.74,other,average,no,low,5
+48535bfc-995e-4941-a8ae-adbb7ba6d706,female,natural sciences,third,7.41,parents,high,no,high,10
+55486d40-acf7-4e04-9bde-8e187f040ed6,female,social sciences,first,6.81,student housing,low,yes,average,5
+2a45f758-c5ac-44cc-b501-89156ae18f6b,male,social sciences,third,7.23,parents,average,yes,average,5
+041f9794-8e34-438a-85c7-0ed56f6239ac,female,business,second,6.58,student housing,high,yes,average,8
+07746725-d555-4ff9-8c90-769083c0c22c,female,health,fourth,8.84,parents,low,yes,low,1
+021682f3-21b9-47ae-8454-87cea64f5bc4,female,computer sciences,third,8.31,parents,low,yes,average,3
+9681bf96-4769-4d61-ac68-ffa9bc6dacb5,male,law,fourth,5.82,parents,average,yes,low,9
+6eb9edd1-f259-4fd3-9276-8bee3b3a5739,female,natural sciences,third,8.4,parents,low,yes,average,4
+5b70da55-08b5-43f8-8d01-a4b0a9bae8bf,female,business,second,7.9,parents,low,yes,average,7
+0d12df15-c043-4d6b-be86-023bb2209ef2,male,business,third,7.01,parents,average,yes,low,3
+cf3b916e-ded5-4922-aca6-754e083f9719,female,computer sciences,first,7.86,parents,high,yes,average,5
+e7d7e4fc-e614-46b5-ab36-e8f32b762fa1,female,law,third,6.76,student housing,average,yes,high,9
+3ca716fd-8e13-43b7-a62d-5082fa518779,female,health,fourth,8.11,parents,low,yes,low,0
+8d1ec3f0-550b-4634-a62c-f571e93b6a4d,female,computer sciences,third,6.94,student housing,high,yes,high,13
+cf43756d-e2d2-4e0c-a24a-80fd3254aaea,male,law,first,5.87,parents,high,yes,high,18
+019e6665-6f7f-409a-99f8-d38fda0975fb,male,law,fourth,6.61,parents,high,no,average,7
+cda6db6e-54ab-46c0-8c2d-1210117e71ee,male,business,fourth,5.5,student housing,average,no,high,20
+ff53035b-39c0-4ed9-9ebc-b89ee9ce2047,female,law,third,7.69,student housing,average,no,low,3
+e1fb5718-28c7-40d1-912d-2e8406e0d4bb,male,law,first,6.24,student housing,low,no,average,9
+f0969c02-a090-49e1-a211-a8d0333e124c,female,business,fourth,6.49,student housing,average,yes,high,11
+066abf4c-69cf-4e4d-8b4c-afa033a46af5,male,health,second,7.21,other,average,yes,high,10
+64638281-d04f-49fd-8c0f-c182fc0d317b,male,law,first,5.52,other,high,yes,high,14
+58cc53f0-4eb4-49c3-ac68-2686502af4be,male,computer sciences,fourth,7.87,parents,average,no,low,0
+1e2d5c25-93d9-4f95-aaef-57e628e1632d,female,social sciences,first,7.4,parents,high,yes,average,3
+66a70f67-af85-4de2-b4bd-78a45c6d2c82,male,computer sciences,first,7.32,parents,average,yes,low,0
+5b12a038-a373-4b61-8730-559b47456970,female,computer sciences,third,7.02,parents,average,no,average,4
+b9379cb9-4356-4ebe-b359-dbe1946e785d,female,business,first,6.77,parents,low,yes,average,9
+565ae3b7-936e-41fe-8c3b-d4efa93b4d4f,male,natural sciences,third,8.25,parents,high,yes,low,2
+8beb1dc8-e4a7-4ea4-b70c-0af94e289cc9,female,natural sciences,second,8.27,parents,low,yes,low,0
+3754378b-9abc-4714-981b-5e125b31dd7d,male,natural sciences,second,7.28,parents,low,no,low,2
+a31b6609-952d-461d-8bb2-b3829ab45707,,law,second,6.89,student housing,high,no,average,3
+72d47522-e518-412c-b5f3-2255f31454ea,male,computer sciences,second,4.92,student housing,average,no,average,16
+e295963e-1ab2-4ecc-bfc0-bbfc20d325ee,female,social sciences,third,6.91,student housing,high,no,low,5
+ddaa8276-ff6b-4a84-b76d-60f4bc49654f,female,business,second,6.81,student housing,average,yes,low,6
+56fcef44-649d-42a0-acf0-66b0c84b17c5,male,business,fourth,5.75,student housing,high,no,high,11
+3f4f8375-ebe6-400a-8460-629c8eaf83e5,male,business,second,6.92,student housing,average,yes,low,5
+5260a480-9d87-4e60-8836-44a97eb0d894,female,natural sciences,fourth,6.95,parents,average,no,low,1
+9a35a4d8-a2ff-4039-bb7f-0d891840cb99,male,law,fourth,7.27,student housing,low,no,low,7
+637cfce8-6302-4f32-a1ee-ad89886758ba,male,social sciences,second,6.96,student housing,low,yes,low,1
+c4bf85ff-7692-49ec-aebd-26e0185d2900,female,health,fourth,8.27,student housing,average,no,average,4
+7d6621e6-dea6-43d1-afe6-1f7ec7da73c7,male,natural sciences,first,7.36,parents,high,no,low,2
+c6e1fb38-bf72-41dd-b3e0-412c4d01c213,male,social sciences,first,6.98,student housing,average,yes,average,9
+bc608027-e736-4cc0-8837-ca212caf00c0,male,social sciences,first,7.94,student housing,low,yes,low,5
+59d18b7f-91d5-4d9c-ba88-341a5dbcd0a6,female,social sciences,third,7.28,student housing,average,yes,average,6
+98cc0a16-f6ee-4859-abae-7859248655e2,male,health,third,8.17,parents,average,no,low,2
+e8d82317-f18e-46ab-85a5-bf92b3cef102,male,law,first,7.44,parents,average,yes,low,7
+430b7f53-0e43-4355-8c8c-7e82eb981782,male,natural sciences,first,7.93,parents,average,yes,low,7
+bef83733-366c-4022-ba25-8e1949235976,male,natural sciences,fourth,5.96,student housing,high,yes,average,7
+20eefd26-0b4e-42f9-8054-b75d13effca5,female,computer sciences,fourth,7.63,parents,low,no,low,0
+b9c9cdc6-6910-40d5-b32f-4ea320b44867,female,social sciences,fourth,5.63,parents,high,yes,average,13
+,female,social sciences,first,7.04,student housing,high,yes,high,7
+dc45da77-ac13-4518-8dbf-c3283e17acab,male,social sciences,third,7.45,parents,average,yes,low,0
+3471d220-84e6-4fe8-8992-b003b285f2ca,male,business,third,7.04,student housing,high,yes,high,13
+717d9a9b-45b6-43dd-81ed-842ed03fbf6b,female,natural sciences,first,7.85,parents,low,yes,average,2
+ee798a6a-cc73-412e-84e6-a3c29ab53ad5,male,social sciences,fourth,7.76,parents,high,yes,low,8
+674be5e4-6749-4729-bcba-15089aa702dd,female,law,fourth,6.37,student housing,high,no,average,7
+0e308a8b-0e82-40f0-92de-67f35b79ce4f,male,business,first,7.27,parents,high,yes,average,6
+7ac3383e-e5ff-46bf-a3b3-8a7a983a77a3,male,health,fourth,6.17,parents,high,yes,high,6
+c4386825-df69-42e3-96be-7fa1eed2702b,female,computer sciences,third,5.47,parents,average,no,high,12
+dde890bb-14fc-4e27-a50f-0ce79e4fa611,female,business,first,5.93,student housing,high,yes,average,9
+7e397e88-1a76-4015-98e4-1992b1252509,female,law,second,7.33,student housing,low,no,average,5
+bb404634-ff1b-4f3b-ad78-3ed38de8f518,female,natural sciences,second,6.4,student housing,high,yes,high,17
